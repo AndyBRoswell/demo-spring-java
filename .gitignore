@@ -32,5 +32,6 @@ build/
 ### VS Code ###
 .vscode/
 
-# maven
+# IntelliJ IDEA
+.idea/
 .mvn/
